@@ -1,0 +1,24 @@
+[ 
+    {
+        "id":1,
+        "Servicio":2,
+        "Colonia":"Alamitos",
+        "Zona":3,
+        "Queja":"No hay luz mercurial"
+    },
+    {
+    "id":2,
+    "Servicio":1,
+    "Colonia":"Calzada Cetys",
+    "Zona":3,
+    "Queja":"Hay una tuberia rota"
+    },
+    {
+        "id":3,
+        "Servicio":1,
+        "Colonia":"Rio Mocorito",
+        "Zona":3,
+        "Queja":"No hay luz en las casas"
+    }
+
+]
